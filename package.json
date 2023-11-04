@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tictactoe",
+  "main": "tic-tac-toe.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatin4224/Tic-Tac-Toe.git"
+  },
+  "author": "jatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jatin4224/Tic-Tac-Toe/issues"
+  },
+  "homepage": "https://github.com/Jatin4224/Tic-Tac-Toe#readme"
+}
